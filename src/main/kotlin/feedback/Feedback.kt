@@ -1,0 +1,4 @@
+package feedback
+
+class Feedback {
+}
